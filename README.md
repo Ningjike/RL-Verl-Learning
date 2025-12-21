@@ -18,3 +18,5 @@ GPU RTX 4090(24GB) * 1
 # GRPO
 完成了训练但未可视化，部分训练过程如下：
 <img width="1073" height="573" alt="image" src="https://github.com/user-attachments/assets/fdaaa8aa-f9a6-4e10-9566-7aae5e6641ce" />
+<img width="1073" height="658" alt="image" src="https://github.com/user-attachments/assets/77ba5efd-519d-4e1c-8320-c217c9f0d0d5" />
+
